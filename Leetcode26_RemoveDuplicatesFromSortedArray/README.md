@@ -16,4 +16,4 @@
 
     整个过程除了传入的数组$nums$外没有分配额外的内存，所以空间复杂度为$O(1)$。
 
-**注意**：此题要注意在函数最开始判断传入数组为空的情况，否则在``Leetcode`提交的时候会遇到**runtime error**：“Line 951: Char 34: runtime error: reference binding to null pointer of type 'const value_type' (stl_vector.h)”。
+**注意**：此题要注意在函数最开始判断传入数组为空的情况，否则在`Leetcode`提交的时候会遇到**runtime error**：“Line 951: Char 34: runtime error: reference binding to null pointer of type 'const value_type' (stl_vector.h)”。
