@@ -1,0 +1,19 @@
+# [Leetcode26.删除重复数据中的重复项](<https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/>)
+
+- 方法分析
+
+  这道题目可利用**双指针**(即快慢指针)的方法来解决。
+
+  ​	通过放置两个指针$i$和$j$，其中$i$是慢指针，$j$是快指针。只要$nums[i] == nums[j]$，就让$j$往后移一位，$i$的位置不变，直到$nums[i]!=nums[j]$，则将$i$向后移一位，并将$j$指向的元素值赋给$i$位置。这样当遍历了一遍数组之后重复元素的值就都被后面的元素给覆盖了。
+
+- 复杂度分析
+
+  - 时间复杂度
+
+    由于删除重复数据的过程需要遍历一遍数组全部元素，所以时间复杂度为$O(n)$。
+
+  - 空间复杂度
+
+    整个过程除了传入的数组$nums$外没有分配额外的内存，所以空间复杂度为$O(1)$。
+
+**注意**：此题要注意在函数最开始判断传入数组为空的情况，否则在`Leetcode`提交的时候会遇到**runtime error**：“Line 951: Char 34: runtime error: reference binding to null pointer of type 'const value_type' (stl_vector.h)”。
