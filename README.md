@@ -10,5 +10,7 @@
 
 ## [05.Leetcode122-StockBuyAndSell2](<https://github.com/liubincodelife/Leetcode_Tencent_Top50/tree/master/Leetcode122_StockBuyAndSell2>)
 
-## [06.Leetcode169-MajorityElement]
+## [06.Leetcode169-MajorityElement](<https://github.com/liubincodelife/Leetcode_Tencent_Top50/tree/master/Leetcode169_MajorityElement>)
+
+## [07.Leetcode217-ContainsDuplicate]
 
