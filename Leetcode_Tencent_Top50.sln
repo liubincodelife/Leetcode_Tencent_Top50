@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode217_ContainsDuplica
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode011_ContainerWithMostWater", "Leetcode011_ContainerWithMostWater\Leetcode011_ContainerWithMostWater.vcxproj", "{1628BD6E-5454-4C28-A21E-DEF2DD51B647}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode015_ThreeSum", "Leetcode015_ThreeSum\Leetcode015_ThreeSum.vcxproj", "{32CE36E5-6850-4D7F-A351-9AC08312CFD5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{1628BD6E-5454-4C28-A21E-DEF2DD51B647}.Release|x64.Build.0 = Release|x64
 		{1628BD6E-5454-4C28-A21E-DEF2DD51B647}.Release|x86.ActiveCfg = Release|Win32
 		{1628BD6E-5454-4C28-A21E-DEF2DD51B647}.Release|x86.Build.0 = Release|Win32
+		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Debug|x64.ActiveCfg = Debug|x64
+		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Debug|x64.Build.0 = Debug|x64
+		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Debug|x86.ActiveCfg = Debug|Win32
+		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Debug|x86.Build.0 = Debug|Win32
+		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Release|x64.ActiveCfg = Release|x64
+		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Release|x64.Build.0 = Release|x64
+		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Release|x86.ActiveCfg = Release|Win32
+		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
