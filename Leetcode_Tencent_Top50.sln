@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode011_ContainerWithMo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode015_ThreeSum", "Leetcode015_ThreeSum\Leetcode015_ThreeSum.vcxproj", "{32CE36E5-6850-4D7F-A351-9AC08312CFD5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode016_ThreeSumClosest", "Leetcode016_ThreeSumClosest\Leetcode016_ThreeSumClosest.vcxproj", "{BD877914-20F1-41B8-A7A6-D592415ABC14}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Release|x64.Build.0 = Release|x64
 		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Release|x86.ActiveCfg = Release|Win32
 		{32CE36E5-6850-4D7F-A351-9AC08312CFD5}.Release|x86.Build.0 = Release|Win32
+		{BD877914-20F1-41B8-A7A6-D592415ABC14}.Debug|x64.ActiveCfg = Debug|x64
+		{BD877914-20F1-41B8-A7A6-D592415ABC14}.Debug|x64.Build.0 = Debug|x64
+		{BD877914-20F1-41B8-A7A6-D592415ABC14}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD877914-20F1-41B8-A7A6-D592415ABC14}.Debug|x86.Build.0 = Debug|Win32
+		{BD877914-20F1-41B8-A7A6-D592415ABC14}.Release|x64.ActiveCfg = Release|x64
+		{BD877914-20F1-41B8-A7A6-D592415ABC14}.Release|x64.Build.0 = Release|x64
+		{BD877914-20F1-41B8-A7A6-D592415ABC14}.Release|x86.ActiveCfg = Release|Win32
+		{BD877914-20F1-41B8-A7A6-D592415ABC14}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
