@@ -16,5 +16,15 @@
 
 ## [08.Leetcode011-ContainerWithMostWater](<https://github.com/liubincodelife/Leetcode_Tencent_Top50/tree/master/Leetcode011_ContainerWithMostWater>)
 
-## [09.Leetcode015-ThreeSum]
+## [09.Leetcode015-ThreeSum](<https://github.com/liubincodelife/Leetcode_Tencent_Top50/tree/master/Leetcode015_ThreeSum>)
+
+## [10.Leetcode054-SpiralMatrix](<https://github.com/liubincodelife/Leetcode_Tencent_Top50/tree/master/Leetcode054_SpiralMatrix>)
+
+## [11.Leetcode059-SpiralMatrixII](<https://github.com/liubincodelife/Leetcode_Tencent_Top50/tree/master/Leetcode059_SpiralMatrixII>)
+
+## [12.Leetcode062-UniquePaths](<https://github.com/liubincodelife/Leetcode_Tencent_Top50/tree/master/Leetcode062_UniquePaths>)
+
+## [13.Leetcode078-Subsets]()
+
+## [14.Leetcode238-ProductOfArrayExceptSelf]()
 
