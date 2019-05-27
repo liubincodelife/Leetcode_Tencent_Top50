@@ -43,6 +43,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode238_ProductOfArrayE
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode005_LongestPalidromicSubstring", "Leetcode005_LongestPalidromicSubstring\Leetcode005_LongestPalidromicSubstring.vcxproj", "{37C01F1D-5639-4CA5-8F49-E2902AFF8071}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode009_PalindromeNumber", "Leetcode009_PalindromeNumber\Leetcode009_PalindromeNumber.vcxproj", "{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -211,6 +213,14 @@ Global
 		{37C01F1D-5639-4CA5-8F49-E2902AFF8071}.Release|x64.Build.0 = Release|x64
 		{37C01F1D-5639-4CA5-8F49-E2902AFF8071}.Release|x86.ActiveCfg = Release|Win32
 		{37C01F1D-5639-4CA5-8F49-E2902AFF8071}.Release|x86.Build.0 = Release|Win32
+		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Debug|x64.ActiveCfg = Debug|x64
+		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Debug|x64.Build.0 = Debug|x64
+		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Debug|x86.Build.0 = Debug|Win32
+		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Release|x64.ActiveCfg = Release|x64
+		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Release|x64.Build.0 = Release|x64
+		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Release|x86.ActiveCfg = Release|Win32
+		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
