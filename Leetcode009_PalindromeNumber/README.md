@@ -1,4 +1,4 @@
-# [Leetcode009.回文数](<<https://leetcode-cn.com/problems/palindrome-number/>)
+# [Leetcode009.回文数](<https://leetcode-cn.com/problems/palindrome-number/>)
 
 - 方法分析
 
