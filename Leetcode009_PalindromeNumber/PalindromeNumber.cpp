@@ -21,6 +21,34 @@ public:
 
         return x == reverseNum || x == (reverseNum / 10);
     }
+
+    bool isPalindrome2(int x)
+    {
+        if (x < 0)
+        {
+            return false;
+        }
+
+        int div = 1;
+        while (x / div >= 10)
+        {
+            div *= 10;
+        }
+
+        while (x > 0)
+        {
+            int high = x / div;
+            int low = x % 10;
+            if (high != low)
+            {
+                return false;
+            }
+            x = (x % div) / 10;  //取剩下的数字继续处理
+            div /= 100;
+        }
+
+        return true;
+    }
 protected:
 private:
 };

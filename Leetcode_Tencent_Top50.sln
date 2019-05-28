@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode005_LongestPalidrom
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode009_PalindromeNumber", "Leetcode009_PalindromeNumber\Leetcode009_PalindromeNumber.vcxproj", "{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode070_ClimbingStairs", "Leetcode070_ClimbingStairs\Leetcode070_ClimbingStairs.vcxproj", "{B938788F-CF4C-4BBB-AEAC-6F178259777A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -221,6 +223,14 @@ Global
 		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Release|x64.Build.0 = Release|x64
 		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Release|x86.ActiveCfg = Release|Win32
 		{3CD52C8F-6AC3-40BF-9089-15B9EB006F9F}.Release|x86.Build.0 = Release|Win32
+		{B938788F-CF4C-4BBB-AEAC-6F178259777A}.Debug|x64.ActiveCfg = Debug|x64
+		{B938788F-CF4C-4BBB-AEAC-6F178259777A}.Debug|x64.Build.0 = Debug|x64
+		{B938788F-CF4C-4BBB-AEAC-6F178259777A}.Debug|x86.ActiveCfg = Debug|Win32
+		{B938788F-CF4C-4BBB-AEAC-6F178259777A}.Debug|x86.Build.0 = Debug|Win32
+		{B938788F-CF4C-4BBB-AEAC-6F178259777A}.Release|x64.ActiveCfg = Release|x64
+		{B938788F-CF4C-4BBB-AEAC-6F178259777A}.Release|x64.Build.0 = Release|x64
+		{B938788F-CF4C-4BBB-AEAC-6F178259777A}.Release|x86.ActiveCfg = Release|Win32
+		{B938788F-CF4C-4BBB-AEAC-6F178259777A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
