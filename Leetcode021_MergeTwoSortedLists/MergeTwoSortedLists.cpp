@@ -33,6 +33,38 @@ public:
 
         return pMergeList;
     }
+
+    //使用迭代的方法
+    ListNode* mergeTwoLists2(ListNode* l1, ListNode* l2)
+    {
+        ListNode* preHead = new ListNode(-1);  //需要考虑内存释放问题！！！
+        ListNode* pNode = preHead;
+        while (l1 != nullptr && l2 != nullptr)
+        {
+            if (l1->val <= l2->val)
+            {
+                pNode->next = l1;
+                l1 = l1->next;
+            } 
+            else
+            {
+                pNode->next = l2;
+                l2 = l2->next;
+            }
+            pNode = pNode->next;
+        }
+
+        pNode->next = (l1 == nullptr) ? l2 : l1;
+
+        return preHead->next;
+    }
 protected:
 private:
 };
+
+int main(int argc, char** argv)
+{
+
+    getchar();
+    return 0;
+}
