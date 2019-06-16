@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode136_SingleNumber", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode292_NimGame", "Leetcode292_NimGame\Leetcode292_NimGame.vcxproj", "{57E14666-EFB8-4D96-A984-88B69EAFDF8D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode014_LongestCommonPrefix", "Leetcode014_LongestCommonPrefix\Leetcode014_LongestCommonPrefix.vcxproj", "{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -411,6 +413,14 @@ Global
 		{57E14666-EFB8-4D96-A984-88B69EAFDF8D}.Release|x64.Build.0 = Release|x64
 		{57E14666-EFB8-4D96-A984-88B69EAFDF8D}.Release|x86.ActiveCfg = Release|Win32
 		{57E14666-EFB8-4D96-A984-88B69EAFDF8D}.Release|x86.Build.0 = Release|Win32
+		{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}.Debug|x64.ActiveCfg = Debug|x64
+		{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}.Debug|x64.Build.0 = Debug|x64
+		{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}.Debug|x86.Build.0 = Debug|Win32
+		{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}.Release|x64.ActiveCfg = Release|x64
+		{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}.Release|x64.Build.0 = Release|x64
+		{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}.Release|x86.ActiveCfg = Release|Win32
+		{1AC00CF4-5D7A-4A3D-AA6E-BB94F726E39D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
