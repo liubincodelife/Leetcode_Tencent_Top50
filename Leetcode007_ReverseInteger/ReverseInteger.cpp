@@ -14,10 +14,10 @@ public:
             int popNum = x % 10;  //将最低位数字取出
             x /= 10;              //取出最低位数字后更新x的值
             //判断result是否上界溢出
-            if (result > INT_MAX / 10 || ( result == INT_MAX / 10 && popNum > 7 ))
+            if (result > INT_MAX / 10 || ( result == INT_MAX / 10 && popNum > 7 )) //注意加括号
                 return 0;
             //判断result是否下界溢出
-            if (result < INT_MIN || (result == INT_MIN / 10 && popNum < -8))
+            if (result < INT_MIN || (result == INT_MIN / 10 && popNum < -8)) //注意加括号
                 return 0;
             result = result * 10 + popNum;
         }
