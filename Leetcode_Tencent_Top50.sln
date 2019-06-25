@@ -101,6 +101,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode046_Permutations", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode089_GrayCode", "Leetcode089_GrayCode\Leetcode089_GrayCode.vcxproj", "{B0A0568E-05F6-4FF5-B32F-BAA398AD8B14}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Leetcode124_BinaryTreeMaxPathSum", "Leetcode124_BinaryTreeMaxPathSum\Leetcode124_BinaryTreeMaxPathSum.vcxproj", "{B7B83D8F-C870-4654-8F01-E66FFD1CA885}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -501,6 +503,14 @@ Global
 		{B0A0568E-05F6-4FF5-B32F-BAA398AD8B14}.Release|x64.Build.0 = Release|x64
 		{B0A0568E-05F6-4FF5-B32F-BAA398AD8B14}.Release|x86.ActiveCfg = Release|Win32
 		{B0A0568E-05F6-4FF5-B32F-BAA398AD8B14}.Release|x86.Build.0 = Release|Win32
+		{B7B83D8F-C870-4654-8F01-E66FFD1CA885}.Debug|x64.ActiveCfg = Debug|x64
+		{B7B83D8F-C870-4654-8F01-E66FFD1CA885}.Debug|x64.Build.0 = Debug|x64
+		{B7B83D8F-C870-4654-8F01-E66FFD1CA885}.Debug|x86.ActiveCfg = Debug|Win32
+		{B7B83D8F-C870-4654-8F01-E66FFD1CA885}.Debug|x86.Build.0 = Debug|Win32
+		{B7B83D8F-C870-4654-8F01-E66FFD1CA885}.Release|x64.ActiveCfg = Release|x64
+		{B7B83D8F-C870-4654-8F01-E66FFD1CA885}.Release|x64.Build.0 = Release|x64
+		{B7B83D8F-C870-4654-8F01-E66FFD1CA885}.Release|x86.ActiveCfg = Release|Win32
+		{B7B83D8F-C870-4654-8F01-E66FFD1CA885}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
